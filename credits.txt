@@ -4,3 +4,7 @@ Thanks For Playing Jeopardy!
 ===================
 
 Powered By ChatGPT For Writing The Main Scripts
+
+CodeCriminal365 (Real Person) For Extra Stuff
+
+Github: https://github.com/CodeCriminal365/Jepordy--Powered-By-ChatGPT
