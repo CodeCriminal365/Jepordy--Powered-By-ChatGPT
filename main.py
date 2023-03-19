@@ -54,7 +54,7 @@ categories = {
         {"question": "What is the name of SpongeBob's best friend in the cartoon, SpongeBob SquarePants?", "answer": "Patrick Star"},
     ],
     "Movies": [
-        {"question": "This actor played the role of Forrest Gump in the 1994 film of the same name.", "answer": "Tom Hanks?"},
+        {"question": "This actor played the role of Forrest Gump in the 1994 film of the same name.", "answer": "Tom Hanks"},
     ],
     "Books": [
         {"question": "This author wrote 'To Kill a Mockingbird'.", "answer": "Harper Lee"},
