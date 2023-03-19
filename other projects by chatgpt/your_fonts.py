@@ -1,4 +1,4 @@
-
+# this is not made by chatgpt. it is just a reference.
 from tkinter import *
 from tkinter import font
 
