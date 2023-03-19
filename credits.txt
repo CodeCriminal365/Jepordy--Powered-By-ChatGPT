@@ -1,0 +1,6 @@
+Thanks For Playing Jeopardy!
+     
+    Credits
+===================
+
+Powered By ChatGPT For Writing The Main Scripts
